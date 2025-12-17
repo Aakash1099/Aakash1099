@@ -1,13 +1,173 @@
 <h1 align="center">Hi 👋, I'm Aakash Girhe</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 📫 How to reach me **aakashgirhe289@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+📫 Reach me at <b>aakashgirhe289@gmail.com</b>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aakash1099)](https://git.io/streak-stats)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<!-- You can add LinkedIn / Portfolio links here later -->
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Aakash1099" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h4>📚 Study Planner System</h4>
+<b>Java | Swing | SQLite | Supabase</b>
+<br/><br/>
+An academic planning system to manage <b>subjects, assignments, timetables, and deadlines</b> with real-time updates.
+<br/><br/>
+• OCR-based note capture  
+• Voice-to-text support  
+• Role-based access  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>📊 Social Media Analytics Dashboard</h4>
+<b>React | React Native | Supabase | Cassandra</b>
+<br/><br/>
+Analytics platform that fetches and analyzes data from <b>YouTube & X (Twitter)</b> APIs to identify trends and engagement.
+<br/><br/>
+• Real-time charts  
+• Keyword & trend analysis  
+• NoSQL backend  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>🧠 Thread Synchronization Simulator</h4>
+<b>Python | Tkinter | OS Concepts</b>
+<br/><br/>
+An interactive simulator to visualize <b>semaphores, mutex locks, deadlocks, and preemption</b>.
+<br/><br/>
+• Animated execution  
+• Educational OS tool  
+• Speed controls  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h4>⚙️ Process Scheduling Simulator</h4>
+<b>Python | Tkinter</b>
+<br/><br/>
+CPU scheduling simulator implementing <b>FCFS, SJF, Priority, Round Robin</b> with Gantt chart visualization.
+<br/><br/>
+• Algorithm comparison  
+• Performance metrics  
+• GUI-based  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>🔍 IR – Book Recommendation System</h4>
+<b>Python | NLP | TF-IDF | Cosine Similarity</b>
+<br/><br/>
+An Information Retrieval–based book recommendation system using <b>Vector Space Model</b> and relevance ranking.
+<br/><br/>
+• Text preprocessing  
+• TF-IDF weighting  
+• Query-based ranking  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>✈️ Flight Delay Prediction</h4>
+<b>Python | Machine Learning | Scikit-learn</b>
+<br/><br/>
+A predictive ML system that analyzes historical flight data to predict <b>flight delays</b>.
+<br/><br/>
+• Feature engineering  
+• Model evaluation  
+• Real-world dataset  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h4>🛩️ Autonomous Mini Drone</h4>
+<b>ESP32 | IoT | Embedded Systems</b>
+<br/><br/>
+A palm-sized autonomous drone capable of <b>takeoff, hover, and landing</b> using sensor fusion.
+<br/><br/>
+• MPU6050, BMP280  
+• VL53L0X ToF sensor  
+• OLED telemetry  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>🌐 ExamPrep Cards (AI)</h4>
+<b>React | Node.js | Supabase | OpenAI API</b>
+<br/><br/>
+AI-powered exam preparation platform that generates <b>summaries and 10-mark answers</b> from PDFs.
+<br/><br/>
+• AI-assisted learning  
+• Card-based UI  
+• Cloud storage  
+
+</td>
+
+<td width="33%" valign="top">
+
+<h4>⌚ Smartwatch AQI Monitoring System</h4>
+<b>IoT | Sensors | Embedded Systems | Web</b>
+<br/><br/>
+A smart air-quality monitoring system integrated with a <b>smartwatch interface</b> to display real-time <b>AQI (Air Quality Index)</b> levels.
+<br/><br/>
+• Real-time AQI sensing (PM2.5, PM10, gases)  
+• Smartwatch-friendly UI & alerts  
+• Cloud / local data visualization  
+
+</td>
+
+
+</tr>
+</table>
+</div>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools</h3>
+
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
+<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
+<a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+</p>
