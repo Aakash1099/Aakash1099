@@ -10,6 +10,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <!-- You can add LinkedIn / Portfolio links here later -->
+  <a href="www.linkedin.com/in/aakash-girhe">
 </p>
 
 <p align="center">
