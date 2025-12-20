@@ -10,15 +10,8 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <!-- You can add LinkedIn / Portfolio links here later -->
-  <a href="www.linkedin.com/in/aakash-girhe">
+  <a href="www.linkedin.com/in/aakash-girhe">Linkedin profile</a>
 </p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Aakash1099" alt="GitHub Streak"/>
-  </a>
-</p>
-
 ---
 
 <h3 align="left">🚀 Featured Projects</h3>
