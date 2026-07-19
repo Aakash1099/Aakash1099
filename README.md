@@ -1,167 +1,163 @@
-<h1 align="center">Hi 👋, I'm Aakash Girhe</h1>
-<h3 align="center">A passionate developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aakash+Girhe;Full+Stack+Developer;React+Native+%7C+Flutter+Developer;AI+%7C+IoT+Enthusiast;Docker+%7C+Linux+%7C+Supabase;Always+Learning+New+Things!" />
+</p>
+
+<h3 align="center">
+🚀 Full Stack Developer • Mobile Developer • AI Enthusiast • IoT Developer
+</h3>
 
 <p align="center">
-📫 Reach me at <b>aakashgirhe289@gmail.com</b>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
+</p>
+
+<p align="center">
+Building modern Full Stack Applications • AI • Mobile Apps • Cloud • IoT
+</p>
+
+<p align="center">
+
+<a href="mailto:aakashgirhe289@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aakash-girhe">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Aakash1099&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Aakash1099?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/Aakash1099?style=for-the-badge&logo=github"/>
+
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<!-- You can add LinkedIn / Portfolio links here later -->
-  <a href="www.linkedin.com/in/aakash-girhe">Linkedin profile</a>
-</p>
----
+# 👨‍💻 About Me
 
-<h3 align="left">🚀 Featured Projects</h3>
-
-<div align="center">
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-<h4>📚 Study Planner System</h4>
-<b>Java | Swing | SQLite | Supabase</b>
-<br/><br/>
-An academic planning system to manage <b>subjects, assignments, timetables, and deadlines</b> with real-time updates.
-<br/><br/>
-• OCR-based note capture  
-• Voice-to-text support  
-• Role-based access  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>📊 Social Media Analytics Dashboard</h4>
-<b>React | React Native | Supabase | Cassandra</b>
-<br/><br/>
-Analytics platform that fetches and analyzes data from <b>YouTube & X (Twitter)</b> APIs to identify trends and engagement.
-<br/><br/>
-• Real-time charts  
-• Keyword & trend analysis  
-• NoSQL backend  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>🧠 Thread Synchronization Simulator</h4>
-<b>Python | Tkinter | OS Concepts</b>
-<br/><br/>
-An interactive simulator to visualize <b>semaphores, mutex locks, deadlocks, and preemption</b>.
-<br/><br/>
-• Animated execution  
-• Educational OS tool  
-• Speed controls  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h4>⚙️ Process Scheduling Simulator</h4>
-<b>Python | Tkinter</b>
-<br/><br/>
-CPU scheduling simulator implementing <b>FCFS, SJF, Priority, Round Robin</b> with Gantt chart visualization.
-<br/><br/>
-• Algorithm comparison  
-• Performance metrics  
-• GUI-based  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>🔍 IR – Book Recommendation System</h4>
-<b>Python | NLP | TF-IDF | Cosine Similarity</b>
-<br/><br/>
-An Information Retrieval–based book recommendation system using <b>Vector Space Model</b> and relevance ranking.
-<br/><br/>
-• Text preprocessing  
-• TF-IDF weighting  
-• Query-based ranking  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>✈️ Flight Delay Prediction</h4>
-<b>Python | Machine Learning | Scikit-learn</b>
-<br/><br/>
-A predictive ML system that analyzes historical flight data to predict <b>flight delays</b>.
-<br/><br/>
-• Feature engineering  
-• Model evaluation  
-• Real-world dataset  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-<h4>🛩️ Autonomous Mini Drone</h4>
-<b>ESP32 | IoT | Embedded Systems</b>
-<br/><br/>
-A palm-sized autonomous drone capable of <b>takeoff, hover, and landing</b> using sensor fusion.
-<br/><br/>
-• MPU6050, BMP280  
-• VL53L0X ToF sensor  
-• OLED telemetry  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>🌐 ExamPrep Cards (AI)</h4>
-<b>React | Node.js | Supabase | OpenAI API</b>
-<br/><br/>
-AI-powered exam preparation platform that generates <b>summaries and 10-mark answers</b> from PDFs.
-<br/><br/>
-• AI-assisted learning  
-• Card-based UI  
-• Cloud storage  
-
-</td>
-
-<td width="33%" valign="top">
-
-<h4>⌚ Smartwatch AQI Monitoring System</h4>
-<b>IoT | Sensors | Embedded Systems | Web</b>
-<br/><br/>
-A smart air-quality monitoring system integrated with a <b>smartwatch interface</b> to display real-time <b>AQI (Air Quality Index)</b> levels.
-<br/><br/>
-• Real-time AQI sensing (PM2.5, PM10, gases)  
-• Smartwatch-friendly UI & alerts  
-• Cloud / local data visualization  
-
-</td>
-
-
-</tr>
-</table>
-</div>
+- 🎓 MCA Graduate
+- 💻 Full Stack Developer
+- 📱 React Native & Flutter Developer
+- 🤖 Exploring AI, LLMs & Agentic AI
+- 🚀 Building SaaS & Mobile Applications
+- 🐳 Docker & Linux Enthusiast
+- 🌱 Learning Cloud Architecture
+- 🇮🇳 India
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+# 🚀 Tech Stack
 
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
-<a href="https://cassandra.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,dart,java,python,c,cpp,postgres,mysql,mongodb,supabase,docker,linux,git,github,aws,firebase,tailwind,html,css,js,ts,vscode"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aakash1099&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash1099&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| 📚 Study Planner | OCR + Voice-to-Text + Supabase |
+| 📊 Social Media Analytics | React Native + Supabase + APIs |
+| 🧠 Thread Synchronization Simulator | Python Operating System Visualization |
+| ⚙️ Process Scheduling Simulator | FCFS • SJF • RR • Priority |
+| 🔍 Book Recommendation System | NLP • TF-IDF • Cosine Similarity |
+| ✈️ Flight Delay Prediction | Machine Learning |
+| 🛩️ Autonomous Mini Drone | ESP32 + Sensors + IoT |
+| 🌐 ExamPrep AI | AI PDF Summarizer |
+| ⌚ AQI Smartwatch | IoT Air Quality Monitoring |
+
+---
+
+# 📊 Developer Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aakash1099&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Languages & Commits
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aakash1099&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aakash1099&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⏰ Productive Time
+
+<p align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aakash1099&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🚀 Building AI SaaS Products
+📱 Cross Platform Mobile Apps
+🤖 Agentic AI
+🐳 Docker & DevOps
+☁️ Cloud Deployment
+🧠 LLM Applications
+```
+
+---
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+</p>
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+Happy Coding! 🚀
+
+</h2>
