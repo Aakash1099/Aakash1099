@@ -199,12 +199,12 @@ curl -s https://raw.githubusercontent.com/Aakash1099/Aakash1099/main/profile.jso
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash1099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&count_private=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash1099&theme=tokyonight&hide_border=true&layout=compact&bg_color=090D16&title_color=00F7FF&text_color=E2E8F0" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Aakash1099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aakash1099&theme=tokyonight&hide_border=true&layout=compact&bg_color=090D16&title_color=00F7FF&text_color=E2E8F0" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash1099&theme=tokyonight&hide_border=true&background=090D16&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Aakash1099&theme=tokyonight&hide_border=true&background=090D16&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" alt="GitHub Streak" />
 
 </div>
 
